@@ -3,7 +3,7 @@ title: Sloppy Joes
 date: 2019-10-25T15:10:55.307Z
 description: A quick sloppy joe mix with a kick.
 ---
-_Adapted from_ [_https://www.seriouseats.com/recipes/2010/04/sloppy-joes-with-barbecue-sauce-carrot-jalapeno-slaw-recipe.html_](https://www.seriouseats.com/recipes/2010/04/sloppy-joes-with-barbecue-sauce-carrot-jalapeno-slaw-recipe.html)_._
+_Adapted from_ [_seriouseats.com_](https://www.seriouseats.com/recipes/2010/04/sloppy-joes-with-barbecue-sauce-carrot-jalapeno-slaw-recipe.html)_._
 
 * 1 t canola oil
 * 1 medium onion, diced
