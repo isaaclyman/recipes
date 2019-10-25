@@ -1,7 +1,7 @@
 ---
 title: Isaac's spicy chicken curry
 date: 2019-10-25T18:29:47.659Z
-description: A spicy tomato-based curry.
+description: A spicy tomato-based American curry.
 ---
 * 1 jalapeno, rolled between the palms and halved longways
 * 2 medium tomatoes, halved
