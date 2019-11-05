@@ -1,7 +1,7 @@
 ---
-title: Isaac's spicy chicken curry
+title: Spicy chicken curry
 date: 2019-10-25T18:29:47.659Z
-description: A spicy tomato-based American curry.
+description: (Isaac) A spicy tomato-based American curry.
 ---
 * 1 jalapeno, rolled between the palms and halved longways
 * 2 medium tomatoes, halved
@@ -15,7 +15,7 @@ description: A spicy tomato-based American curry.
 * 2 small cans tomato sauce
 * A splash (1/4 c. or so) of chicken broth
 * A pat of cream cheese (maybe 2 T)
-* 1-2 chicken breasts or thighs, trimmed and diced
+* 1-2 chicken breasts or thighs, trimmed and cut into bite-sized chunks
 
 1. In a cast iron skillet, scorch the jalapenos and tomatoes on medium-high heat until the skin blackens (but not the flesh), turning and moving them as needed to maximize roastage. Remove and dice them both, discarding the burnt skin.
 2. Turn the heat down to medium-low. Add the olive oil to the pan, then return the diced jalapenos and tomatoes. Crush the italian seasoning between your hands and add to the pan. Add the kosher salt, MSG, and rosemary. Heat for 12 minutes, stirring frequently.
