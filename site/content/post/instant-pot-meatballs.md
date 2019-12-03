@@ -29,5 +29,3 @@ Place meatballs over the sauce, layering them if necessary. It's OK if they touc
 4. Place lid on Instant Pot and switch valve to "sealing". Set to "high" pressure for 7 minutes. Note: If your cooker shows a "burn" warning, add a half cup of water then resume. Or you can just wait it out. 
 5. After you hear the timer go off, allow to slow release for another 5 minutes and then do the quick release (switch tab to "venting").
 6. Done. Serve over noodles. 
-
-###### Enjoy!

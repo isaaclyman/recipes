@@ -43,5 +43,3 @@ Extend the boiling times to 2 minutes each, if you’d prefer a chewier bagel (N
 12. Once all the bagels have been boiled and optionally topped, transfer them to a lightly oiled baking sheet.
 13. Bake for 20 minutes, or until golden brown.
 14. Cool on a wire rack if you have one. Or don't. Slice and cover in whipped cream cheese. 
-
-###### Enjoy!
