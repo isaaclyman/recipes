@@ -23,16 +23,11 @@ _Adapted from_ [_favfamilyrecipes.com_](https://www.favfamilyrecipes.com/instant
 # Directions
 
 1. Combine all ingredients (except spaghetti sauce) until well mixed. I suggest using your hands, but you don't have to if you're a coward. 
-
 2. Form into balls. You'll want them to be slightly smaller than a golf ball.
-
 3. Spray bottom of Instant Pot with cooking spray and add spaghetti sauce.
 Place meatballs over the sauce, layering them if necessary. It's OK if they touch, just don't squish them much.
-
 4. Place lid on Instant Pot and switch valve to "sealing". Set to "high" pressure for 7 minutes. Note: If your cooker shows a "burn" warning, add a half cup of water then resume. Or you can just wait it out. 
-
 5. After you hear the timer go off, allow to slow release for another 5 minutes and then do the quick release (switch tab to "venting").
-
 6. Done. Serve over noodles. 
 
 ###### Enjoy!
