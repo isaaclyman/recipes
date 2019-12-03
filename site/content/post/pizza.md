@@ -117,10 +117,12 @@ I'll refer Anders to fix up this part since I've never nailed the recipe.
 
 ## Pizza Peel and Stone Method
 #### Requirements:
-1. Wooden and Metal pizza peels (pizza paddles?)
-2. Pizza Stone, on mid to lower rack
+
+* Wooden and Metal pizza peels (pizza paddles?)
+* Pizza Stone, on mid to lower rack
 
 #### Directions:
+
 0. Preheat oven _an hour_ ahead of time at 550ºF with the stone inside. It takes awhile to absorb the heat. Longer is better! 
 1. Evenly dust wooden paddle with roasted flour or cornmeal
 2. Stretch dough onto it
@@ -131,6 +133,7 @@ I'll refer Anders to fix up this part since I've never nailed the recipe.
 7. Wait a minute, then cut and serve.
 
 ## Pan Method
+
 1. Preheat oven to 550ºF. 
 2. Stretch dough to edges of pizza pan, then top it. 
 3. Cook in oven noramlly, 7 to 12 minutes or more. My guess would be middle rack, but it all depends on the oven. Bottom should cook as evenly as the top. 
