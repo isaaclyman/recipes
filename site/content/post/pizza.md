@@ -56,7 +56,8 @@ High Fat / Low Moisture mozzarella makes a huge difference. [_Walmart sells it a
 * Large can of crushed tomatoes. Great Value, Muir Glen, whatever tastes great. Alternatively, you can put a drained can of whole tomatoes in a blender.
 * Salt
 
-Optional:
+###### Optional:
+
 * Pepper
 * Garlic salt
 * Oregano
@@ -113,11 +114,11 @@ I'll refer Anders to fix up this part since I've never nailed the recipe.
 * Your favorite BBQ sauce
 
 ## Pizza Peel and Stone Method
-####Requirements:
+#### Requirements:
 1. Wooden and Metal pizza peels (pizza paddles?)
 2. Pizza Stone, on mid to lower rack
 
-####Directions:
+#### Directions:
 0. Preheat oven _an hour_ ahead of time at 550ºF with the stone inside. It takes awhile to absorb the heat. Longer is better! 
 1. Evenly dust wooden paddle with roasted flour or cornmeal
 2. Stretch dough onto it
