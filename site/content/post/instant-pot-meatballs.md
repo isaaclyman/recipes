@@ -1,6 +1,6 @@
 ---
 title: Instant Pot Meatballs
-date: 2019-12-3T10:10:55.307Z
+date: 2019-12-03T10:10:55.307Z
 description: Meatballs made in a pressure cooker, cooked in sauce
 image: /img/Instant-Pot-Meatballs.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bagels
-date: 2019-12-2T17:10:55.307Z
+date: 2019-12-02T17:10:55.307Z
 description: How to make and eat a bagel
 image: /img/bagels.jpg
 ---
