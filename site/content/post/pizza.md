@@ -13,7 +13,7 @@ _Mainly from Anders's_ [_Pizza Dough Calculator_](https://pizza-dough-calculator
 #### Ingredients:
 
 | Ingredient            | Grams         | Ounces|
-| :-------------        | :-------------| :-----|
+| :-------------        | :-------------| -----:|
 | Flour*                | 856.03        | 30.20 |
 | Water**               | 530.74        | 18.72 |
 | Yeast***              | 3.42          |  0.12 |
@@ -23,6 +23,7 @@ _Mainly from Anders's_ [_Pizza Dough Calculator_](https://pizza-dough-calculator
 | Total:                | 1,424.43      | 50.25 |
 | Single Ball (4 total) | 356.11        | 12.56 |
 
+###### Notes:
 You can find and adjust the same values from the calculator linked above.
 Kitchen scale is recommended.
 
