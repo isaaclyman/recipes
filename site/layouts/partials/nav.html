@@ -1,15 +1,86 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
+	<a href="/" class="pa3 db mr4 h-100 w3 flex-none mobile-hide">
 		<img src="/img/logo.png" alt="Chef Lyman logo" class="br0 db mb0 w-100"/>
 	</a>
 
-	(shut up and eat your dinner)
+	<span class="mobile-hide">
+		(shut up and eat your dinner)
+	</span>
 
 	<!-- Primary Nav -->
 	<ul class="flex b grey-3">
-		<li><a href="/post" class="pa3 no-underline db">Recipes</a></li>
+		<li class="vert-center mobile-hide"><a href="/post" class="pa3 no-underline db">Recipes</a></li>
+		<li class="vert-center search">
+			<input id="search-input" class="search-input" type="text" placeholder="Search">
+			<button id="search-button" class="search-button">Go</button>
+			<script type="text/javascript">
+				var searchInput = document.getElementById('search-input');
+				var runSearch = function () {
+					var searchValue = searchInput.value;
+					if (typeof searchValue !== 'string') {
+						console.warn('Attempted to search a non-string value.');
+						return;
+					}
+
+					document.location.href = 'https://www.google.com/search?q=site%3Arecipes.isaaclyman.com+' + encodeURIComponent(searchValue.trim());
+				}
+				document.getElementById('search-button').onclick = runSearch;
+				searchInput.onkeydown = function ($event) {
+					if ($event.keyCode === 13) {
+						runSearch();
+					}
+				}
+			</script>
+		</li>
+		<style>
+			.vert-center {
+				align-items: center;
+				display: flex;
+				flex-direction: row;
+			}
+
+			.search {
+				margin-left: 8px;
+				padding: 6px 0;
+			}
+
+			.search-input {
+				background-color: #fafafa;
+				border: 2px solid #efefef;
+				border-bottom-right-radius: 0;
+				border-top-right-radius: 0;
+				height: 40px;
+			}
+
+			.search-input::placeholder {
+				color: #aaa;
+			}
+
+			.search-button {
+				background-color: #efefef;
+				border-bottom-right-radius: .25em;
+				border-top-right-radius: .25rem;
+				color: #333;
+				font-size: 22px;
+				font-weight: bold;
+				height: 40px;
+				margin-right: 8px;
+				transition: background-color 250ms, color 250ms;
+			}
+
+			.search-button:hover {
+				background-color: #779ecb;
+				color: #fff;
+			}
+
+			@media (max-width: 850px) {
+				.mobile-hide {
+					display: none;
+				}
+			}
+		</style>
 	</ul>
 
 </nav>
