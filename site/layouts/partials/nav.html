@@ -9,13 +9,13 @@
 
 	<!-- Primary Nav -->
 	<ul class="flex b grey-3">
-		<li><a href="/post" class="pa3 no-underline db">Recipes</a></li>
-		<li>
+		<li class="vert-center"><a href="/post" class="pa3 no-underline db">Recipes</a></li>
+		<li class="vert-center">
 			<input id="search-input" class="search-input" type="text" placeholder="Lasagna">
 			<button id="search-button" class="search-button">Search</button>
 			<script type="text/javascript">
 				var searchInput = document.getElementById('search-input');
-				document.getElementById('search-button').onclick = function () {
+				var runSearch = function () {
 					var searchValue = searchInput.value;
 					if (typeof searchValue !== 'string') {
 						console.warn('Attempted to search a non-string value.');
@@ -24,8 +24,46 @@
 
 					document.location.href = 'https://www.google.com/search?q=site%3Arecipes.isaaclyman.com+' + encodeURIComponent(searchValue.trim());
 				}
+				document.getElementById('search-button').onclick = runSearch;
+				searchInput.onkeydown = function ($event) {
+					if ($event.keyCode === 13) {
+						runSearch();
+					}
+				}
 			</script>
 		</li>
+		<style>
+			.vert-center {
+				align-items: center;
+				display: flex;
+				flex-direction: row;
+			}
+
+			.search-input {
+				background-color: #fafafa;
+				border: 2px solid #efefef;
+				border-bottom-right-radius: 0;
+				border-top-right-radius: 0;
+				height: 40px;
+			}
+
+			.search-input::placeholder {
+				color: #aaa;
+			}
+
+			.search-button {
+				background-color: #efefef;
+				border: 2px solid #efefef;
+				color: #333;
+				height: 40px;
+				margin-right: 4px;
+				transition: border-color 250ms;
+			}
+
+			.search-button:hover {
+				border-color: #779ecb;
+			}
+		</style>
 	</ul>
 
 </nav>
