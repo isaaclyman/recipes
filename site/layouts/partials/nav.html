@@ -1,24 +1,17 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
+	<a class="mobile-hide" href="/" class="pa3 db mr4 h-100 w3 flex-none">
 		<img src="/img/logo.png" alt="Chef Lyman logo" class="br0 db mb0 w-100"/>
 	</a>
 
-	<span class="shut-up">
+	<span class="mobile-hide">
 		(shut up and eat your dinner)
 	</span>
-	<style>
-		@media (max-width: 850px) {
-			.shut-up {
-				display: none;
-			}
-		}
-	</style>
 
 	<!-- Primary Nav -->
 	<ul class="flex b grey-3">
-		<li class="vert-center"><a href="/post" class="pa3 no-underline db">Recipes</a></li>
+		<li class="vert-center mobile-hide"><a href="/post" class="pa3 no-underline db">Recipes</a></li>
 		<li class="vert-center search">
 			<input id="search-input" class="search-input" type="text" placeholder="Search">
 			<button id="search-button" class="search-button">Go</button>
@@ -79,6 +72,12 @@
 			.search-button:hover {
 				background-color: #779ecb;
 				color: #fff;
+			}
+
+			@media (max-width: 850px) {
+				.mobile-hide {
+					display: none;
+				}
 			}
 		</style>
 	</ul>
