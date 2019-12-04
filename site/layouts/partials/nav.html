@@ -11,11 +11,11 @@
 	<ul class="flex b grey-3">
 		<li><a href="/post" class="pa3 no-underline db">Recipes</a></li>
 		<li>
-			<input #searchInput class="search-input" type="text" placeholder="Lasagna">
-			<button #searchButton class="search-button">Search</button>
+			<input id="search-input" class="search-input" type="text" placeholder="Lasagna">
+			<button id="search-button" class="search-button">Search</button>
 			<script type="text/javascript">
-				var searchInput = document.getElementById('searchInput');
-				document.getElementById('searchButton').onclick = function () {
+				var searchInput = document.getElementById('search-input');
+				document.getElementById('search-button').onclick = function () {
 					var searchValue = searchInput.value;
 					if (typeof searchValue !== 'string') {
 						console.warn('Attempted to search a non-string value.');
