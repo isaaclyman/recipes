@@ -2,6 +2,7 @@
 title: Chicken Makhani
 date: 2019-12-06T20:19:47.535Z
 description: Indian Butter Chicken
+image: /img/unnamed.jpg
 ---
 Adapted from [here](http://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani/).
 
