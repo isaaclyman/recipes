@@ -85,3 +85,27 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+table {
+    border-collapse: unset;
+    margin: 10px 0;
+    border-right: 1px solid #E8E8E8;
+    border-left: 1px solid #E8E8E8;
+}
+
+th {
+    background-color: #E8E8E8;
+    padding: 4px 5px;
+}
+
+td {
+    padding: 4px 5px;
+}
+
+td:not(:first-child) {
+    border-left: 1px solid lightgrey
+}
+
+tr:nth-child(even) {
+    background-color: #E8E8E8;
+}
