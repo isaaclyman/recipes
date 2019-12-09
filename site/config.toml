@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://recipes.isaaclyman.com"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
