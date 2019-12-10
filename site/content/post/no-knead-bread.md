@@ -2,6 +2,7 @@
 title: No knead bread
 date: 2019-12-09T22:03:22.900Z
 description: Four ingredients + time
+image: /img/bread-cropped.jpg
 ---
 * 3 cups all-purpose flour
 * 1 1/2 teaspons salt
