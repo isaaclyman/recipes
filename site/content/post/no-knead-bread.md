@@ -1,5 +1,5 @@
 ---
-title: No knead bread
+title: No Knead Bread
 date: 2019-12-09T22:03:22.900Z
 description: Four ingredients + time
 image: /img/bread-cropped.jpg
