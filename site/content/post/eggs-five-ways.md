@@ -21,8 +21,6 @@ description: All my favorite methods of making eggs. (Isaac)
 
 _Note:_ Using butter will give the eggs a slightly crispy, browned bottom and allow them to slide off the pan more easily. Using cream will give the eggs a richer, smoother flavor. If using shredded cheese, top the eggs slightly before they reach the desired state of doneness, then put the lid back on.
 
-
-
 ## Soft Scrambled (small curd)
 
 * One to three eggs
@@ -37,8 +35,6 @@ _Note:_ Using butter will give the eggs a slightly crispy, browned bottom and al
 
 _Note:_ A soft scramble may give the impression of undercooked eggs, though they are in fact cooked through.
 
-
-
 ## Hard- or Soft-Boiled
 
 * As many eggs as you want to boil, plus two eggs (no matter how many eggs you boil, there are always two that end up cracking in the pot and getting ruined)
@@ -49,9 +45,7 @@ _Note:_ A soft scramble may give the impression of undercooked eggs, though they
 2. Lower the eggs in carefully with a spoon or small strainer.
 3. Boil for 8.5 minutes for soft-boiled, 10 minutes for hard-boiled.
 4. Immediately transfer the eggs to ice water. Throw away the two eggs that cracked for no reason and ended up looking like octopus ghosts.
-5. To open: crack the butt (the wide, round end) of the egg, then up one side and down the other vertically. Peel a strip from butt to tip, and if you're lucky, the rest of the peel will slide right off. If you're unlucky, the egg will cling to the shell and peeled egg will look craggy. Oh well. Use it in a salad.
-
-
+5. To open: crack the butt (the wide, round end) of the egg, then up one side and down the other vertically. Peel a strip from butt to tip, and if you're lucky, the rest of the peel will slide right off. If you're unlucky, the egg will cling to the shell and the peeled egg will look craggy. Oh well. Use it in a salad.
 
 ## Poached
 
@@ -66,8 +60,6 @@ _Adapted from_ [_seriouseats.com_](https://www.seriouseats.com/2013/03/how-to-po
 3. Gently lower the strainer into the water and roll the egg in. Repeat with the remaining eggs.
 4. Use a slotted spoon to slowly and gently roll the eggs around the bottom of the pot while they cook so they don't stick.
 5. When the eggs turn opaque throughout, they're done. They should be solid but still jiggly. Remove them from the pot and serve.
-
-
 
 ## Breakfast Muffin
 
