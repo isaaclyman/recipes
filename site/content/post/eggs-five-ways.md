@@ -51,7 +51,7 @@ _Note:_ A soft scramble may give the impression of undercooked eggs, though they
 
 _Adapted from_ [_seriouseats.com_](https://www.seriouseats.com/2013/03/how-to-poach-eggs-easy-way-poached-breakfast-video.html)_._
 
-* Two to four eggs
+* Two to four fresh eggs
 * A pot
 * A very small mesh strainer, maybe twice the size of a single egg
 
