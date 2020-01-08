@@ -29,7 +29,7 @@ _Note:_ Using butter will give the eggs a slightly crispy, browned bottom and al
 * Salt and cracked pepper to taste
 * Optional toppings (see first recipe)
 
-1. Heat the skillet over medium heat or slightly less. Crack in the eggs.
+1. Heat the butter in the skillet over medium heat or slightly less. Crack in the eggs.
 2. Using a spatula (ideally a stiff silicone spatula with a flexible tip), stir the eggs constantly and thoroughly, scraping the bottom so it never sticks to the pan, and fast enough that large curds do not form. As the eggs start to solidify, you can add a spreading action to your stirring to keep the curds very fine.
 3. When finished, the eggs will still be glossy but not runny and will have the texture of fine porridge or stone-ground mustard. Serve immediately, or turn off the heat, top with cheese, and cover for 30 seconds.
 
@@ -63,7 +63,7 @@ _Adapted from_ [_seriouseats.com_](https://www.seriouseats.com/2013/03/how-to-po
 
 ## Breakfast Muffin
 
-* One egg, cooked however you like (I usually do sunny side up, cooked easy, no butter)
+* One egg, cooked however you like (I usually do sunny side up, cooked hard, no butter)
 * One English muffin, split
 * 1 tablespoon mayonnaise
 * 1 to 2 teaspoons French-style dijon mustard (e.g. Grey Poupon) or hot sauce
