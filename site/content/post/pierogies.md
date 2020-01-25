@@ -44,15 +44,11 @@ _Optional but yummy_
 * Sour Cream to serve
 * Coarse/cracked salt
 
-
-
 **How to Make Mashed Potato Cheese Filling:**
 
 Place cubed/diced potatoes in a pot, add enough water to cover potatoes then bring to a boil over medium/high and continue cooking 25 minutes or until easily pierced with a fork. Drain and cool 5 minutes then mash potatoes.
 
 \-----
-
-
 
 _What the recipe says:_ Mash in 1/2 tsp salt, 2 Tbsp melted butter and 2 oz cream cheese. Mash in 3/4 cup shredded mozzarella cheese. Partially cover and set aside while rolling out the dough. 
 
@@ -60,23 +56,15 @@ OR
 
 _What I say:_  Stir in tasty amounts of "optional but yummy" to your liking. You can't really add too much of anything, just taste often and when you're like "oooh that's goooood" then you're all set. 
 
-
-
 **To Make Pierogi Dough:**
 
 In the bowl of a stand mixer (or large mixing bowl if mixing by hand), whisk together 1 cup warm water, 1/4 cup milk, 2 Tbsp sour cream, 1 egg and 1 tsp salt until blended.
 
-
-
 Using dough hook attachment, add 2 cups flour and mix on speed 2 until incorporated. Add remaining flour 1/2 cup at a time, letting it incorporate before adding more. Add the last bit of flour 1 Tbsp at a time just until dough no longer sticks to sides of the bowl. Knead on speed 2 or by hand for 10 minutes (not a joke. It really has to be worked).
-
-
 
 **How to Shape Pierogi:**
 
 Divide dough into 2 pieces. Cover the second piece with the mixing bowl (dried out dough is a no-no) and thinly roll the first piece out onto a floured surface to just under 1/8” thickness.
-
-
 
 Use a 3” diameter round cookie cutter (just using a glass cup isn't really sharp enough, but you can try. Alterantively try a cup to trace with a knife) to cut circles from the dough, keeping them as close as possible (collect scraps and place under the bowl to re-use. _Highly recommended_). Add 1/2 Tbsp of potatoes over each round.
 
@@ -94,9 +82,7 @@ Just top with coarse salt and sour cream. Easy and delicious
 
 Bring a pot of water to a rolling boil and add 1 Tbsp salt. Add fresh. Once they are floating and water is back to a boil, cook additional 3-5 minutes or until dough is very tender. Remove to a bowl with a slotted spoon drizzling buttery bacon between layers. 
 
-
-
-_Cut dough:_
+_Cut dough:_
 
 ![Cut pierogi dough](/img/20200119_165120.jpg "Cut dough")
 
