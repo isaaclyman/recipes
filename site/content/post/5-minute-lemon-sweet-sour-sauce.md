@@ -1,5 +1,5 @@
 ---
-title: 5-minute lemon sweet & sour sauce
+title: 5-minute Lemon Sweet & Sour Sauce
 date: 2020-02-14T17:09:10.250Z
 description: Microwaves do it faster
 ---
