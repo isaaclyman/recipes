@@ -9,7 +9,7 @@ description: Microwaves do it faster
 * A drizzle of mirin (optional)
 * A squirt of sriracha sauce
 * A squirt of soy sauce
-* A few splashes of lemon juice
+* Several splashes of lemon juice
 * A heaping spoonful of white sugar
 
 1. In a microwave-safe cup, like a glass measuring cup, microwave the water for 45 seconds or until steaming.
@@ -18,6 +18,8 @@ description: Microwaves do it faster
 4. Add the sugar and stir until dissolved.
 5. Microwave up to 1 minute or until the mixture begins to bubble and rise. Remove from the microwave and stir promptly.
 6. Taste and adjust as needed, adding sugar to sweeten, lemon juice to flavor, or water to thin out.
-7. Serve right away. Goes great with those frozen vegetable spring rolls from Costco.
+7. Serve right away, or allow to cool if thickening is needed. Goes great with those frozen vegetable spring rolls from Costco.
 
-_Note:_ Measurements are inexact because this one's hard to mess up. The result will taste like a slightly more grown-up version of Chinese takeout sweet & sour. I'm pretty confident clementine juice and zest could be substituted for lemon juice to lend a bit of variation; stay tuned.
+_Note:_ Measurements are inexact because this one's hard to mess up. The result will taste like a slightly more grown-up version of Chinese takeout sweet & sour.
+
+You can substitute the zest and juice of one clementine for the lemon juice, but if you do you should omit the sriracha and increase the cornstarch. And really, the lemon version is better.
