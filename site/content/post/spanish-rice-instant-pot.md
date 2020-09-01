@@ -35,3 +35,7 @@ image: /img/img_20200819_172529.jpg
 11. Let pressure release naturally all the way (leave it sealed until pressure button pops up).
 12. Remove lid and fluff rice with a fork, while stirring in the tomato sauce you added earlier.
 13. Stir in butter if desired and serve.
+
+
+
+Source: https://amindfullmom.com/instant-pot-spanish-rice/
