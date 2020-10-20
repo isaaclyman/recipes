@@ -17,15 +17,21 @@ This is for the UglyBop with heat level 4.
    ). Can also do pork or beef.
 5. Black and white sesame seeds, spicy mayo, and white lime sauce. Be generous with these top sauces
 
+Sauce amount from most to least:
+
+1. White sauce. Go crazy!
+2. Spicy mayo. Somewhat less, but plenty.
+3. Bulgogi. Light drizzle on rice and/or noodles. Not enough to soup up, but enough to flavor. 
+
 Below a level 4 has less spicy mayo. Above has more. Higher levels have more sriracha and potentially sambal oelek sauce. 
 
 ## Making the sauces
 
 **White Lime Sauce**
 
-* 6 Tbsp Mayonnaise
+* 10 Tbsp Mayonnaise
 * 4 Tbsp Lime juice
-* 5 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it)
+* 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it)
 
 Last time I went to Cupbop, I asked for a side cup of their white sauce and asked what was in it. "Oh, it's pretty much just mayo and lime." I went home and recreated it. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. But with powdered sugar you can get pretty close. Just mix the ingredients (double or triple the recipe if needed), and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a relatively sweet sauce. 
 
@@ -39,18 +45,29 @@ There's room for play here. If it's too spicy, add mayo. If there's not enough k
 
 **Bulgogi Sauce (in progress)**
 
-You _can_ make Bulgogi sauce from scratch. In fact, I probably recommend it. I bought some from an Asian store, and the flavor profile isn't quite the same. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. The basic ingredients are soy sauce, brown sugar, garlic (crushed), grated ginger, sesame oil, and apple or pear or pineapple juice (weird I know). I'd recommend finding some recipes online if you don't have an Asian store nearby. I'm still trying to nail down this sauce.
+You _can_ make Bulgogi sauce from scratch. In fact, I probably recommend it. I bought some from an Asian store, and the flavor profile isn't quite the same. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. The basic ingredients are soy sauce, brown sugar, garlic (crushed), grated ginger, sesame oil, and apple or pear or pineapple juice (weird I know). 
 
 ![](/img/img_20201013_123855.jpg)
 
-I did the following, and it was pretty close: 
+I'm still trying to nail down this sauce. Here's what I have so far: 
+
+* 3/4 cup soy sauce
+* 3/4 cup apple juice
+* 3/4 cup brown sugar
+* 5/8 tsp garlic powder
+* 1/2 tsp black pepper
+* 1 inch of grated ginger, or a tsp. Probably less. I made this without last time, and it definitely needed it. Do in moderation. 
+
+
+
+If you wanna be lazy, I did the following too, and it was pretty close although not quite as close: 
 
 * 1 Cup Assi Bulgogi sauce
 * 1.5 Tbsp. brown sugar
 
 **About Teriyaki Sauce, and why it's not it**
 
-* You _can_ use Teriyaki sauce instead of Bulgogi sauce (many of the ingredients of the sauce overlap). The problem is that the flavor doesn't necessarily mix as well with the other sauces. It's too gingery. But, it's more accessible and you're welcome to try it if Bulgogi is too overwhelming for you. If you want to use it, you can do 1 cup of teriyaki, and up to 2 Tbsp. of brown sugar. 
+* You _can_ use Teriyaki sauce instead of Bulgogi sauce (many of the ingredients of the sauce overlap). The problem is that the flavor doesn't necessarily mix as well with the other sauces. It's too gingery. 
 * The real Cupbop bulgogi sauce is somewhere between authentic bulgogi and teriyaki. I'm still working on it. In reality my best bet will probably be in trying to make my own sauce and hold back on the ginger and soy sauce a little. 
 
 **Mochiko Chicken** 
@@ -61,16 +78,17 @@ Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/e
   . Do not use real flour. 
 * 1/4 cup cornstarch 
 * 1/4 cup sugar 
-* 5 tablespoons soy sauce 
+* 5 tablespoons water. Original recipe asks for soy sauce instead, but Cupbop's isn't quite as flavorful. If you want more chicken flavor, definitely go with the soy sauce. 
 * 2 eggs 
-* 1/4 cup finely chopped green onions, reserve some for garnish 
+* 1/4 cup finely chopped green onions, reserve some for garnish. Optional, I skip this one.  
 * 2 pounds boneless, skinless chicken thighs
 * Oil, for frying
 
 1. Cube your chicken into cupbop size. 
 2. Mix the first six listed ingredients then put in a sealable bowl or gallon ziplock bag. Stick the cubed chicken in there, and let sit overnight in the fridge, or at least for a few hours.
 3. When ready, preheat your oil in a high-walled pan or pot to 350°F.
-4. Cook a handful of your chicken cubes at a time, flipping partway through, until internal temperature of the chicken is above 165°, or the exterior is gently golden. Preferably both. 
+4. Add extra mochiko flour to a bowl, and coat each piece of chicken in it. This will make it krispy and crunchy.
+5. Cook a handful of your chicken cubes at a time, flipping partway through, until internal temperature of the chicken is above 165°. The mochiko flour exterior won't brown much. 
 
 **For other meats**
 
