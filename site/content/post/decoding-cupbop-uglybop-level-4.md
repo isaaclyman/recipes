@@ -58,8 +58,6 @@ I'm still trying to nail down this sauce. Here's what I have so far:
 * 1/2 tsp black pepper
 * 1 inch of grated ginger, or a tsp. Probably less. I made this without last time, and it definitely needed it. Do in moderation. 
 
-
-
 If you wanna be lazy, I did the following too, and it was pretty close although not quite as close: 
 
 * 1 Cup Assi Bulgogi sauce
@@ -78,7 +76,7 @@ Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/e
   . Do not use real flour. 
 * 1/4 cup cornstarch 
 * 1/4 cup sugar 
-* 5 tablespoons water. Original recipe asks for soy sauce instead, but Cupbop's isn't quite as flavorful. If you want more chicken flavor, definitely go with the soy sauce. 
+* 5 tablespoons milk (or buttermilk, or technically water). Original recipe asks for soy sauce instead, but Cupbop's isn't quite as flavorful. If you want more chicken flavor, definitely go with the soy sauce. _Marinating here is meant to tenderize more than add flavor, but the green onions and bit of sweetness are nice._ 
 * 2 eggs 
 * 1/4 cup finely chopped green onions, reserve some for garnish. Optional, I skip this one.  
 * 2 pounds boneless, skinless chicken thighs
