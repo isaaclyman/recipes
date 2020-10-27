@@ -47,8 +47,6 @@ There's room for play here. If it's too spicy, add mayo. If there's not enough k
 
 You _can_ make Bulgogi sauce from scratch. In fact, I probably recommend it. I bought some from an Asian store, and the flavor profile isn't quite the same. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. The basic ingredients are soy sauce, brown sugar, garlic (crushed), grated ginger, sesame oil, and apple or pear or pineapple juice (weird I know). 
 
-![](/img/img_20201013_123855.jpg)
-
 I'm still trying to nail down this sauce. Here's what I have so far: 
 
 * 3/4 cup soy sauce
