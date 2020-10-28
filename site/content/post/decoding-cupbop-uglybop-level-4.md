@@ -26,7 +26,7 @@ Note: below a level 4 has less spicy mayo. Above has more. Higher levels have mo
 
 ![Containers with sauces in them](/img/img_20201027_185247.jpg "Nice little bottles like these are perfect, especially if you don't lose the lids. ")
 
-I highly recommend going to Cupbop and ordering extra sauce with your dish, but in small containers on the side. They're happy to do it. I paid a buck for any sauce on the side. 
+I highly recommend going to Cupbop and ordering extra sauce with your dish, but in small containers on the side. They're happy to do it. I paid a buck for each added sauce on the side. 
 
 **White Lime Sauce**
 
@@ -34,7 +34,7 @@ I highly recommend going to Cupbop and ordering extra sauce with your dish, but 
 * 4 Tbsp Lime juice
 * 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it)
 
-I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients (double or triple the recipe if needed), and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
+I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients, and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
 
 Feel free to double the recipe, but this should be plenty for a few people.
 
@@ -45,18 +45,18 @@ Feel free to double the recipe, but this should be plenty for a few people.
 * 1/4 tsp garlic powder
 * 1 tsp lime juice
 
-There's room for play here. If it's too spicy, add mayo. If there's not enough kick, add sriracha. Keep in mind this sauce it meant to be applied heavily, and you'll be putting a lot of it on the final dish. Basically, it shouldn't be very spicy unless you're really into that.
+There's room for play here. If it's too spicy, add mayo. If there's not enough kick, add sriracha. Keep in mind this sauce it meant to be applied heavily, and you'll be putting a lot of it on the final dish. Basically, it should be mild unless you want it spicier than a level 4. 
 
 Also, feel free to double or triple the recipe, but this should be enough for 2-4 people. 
 
 **Bulgogi Sauce**
 
-I recommend making this vs buying it. I bought some from an Asian store, and the flavor profile isn't quite the same. It's way too strong in flavor. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. The basic ingredients are soy sauce, brown sugar, garlic (crushed), grated ginger, sesame oil, and apple or pear or pineapple juice (weird I know). 
+I recommend making this vs buying it. I bought some from an Asian store, and the flavor profile isn't quite the same. It's way too strong in flavor. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. 
 
 Here's what I've done: 
 
 * 3/4 cup soy sauce
-* 3/4 cup apple juice
+* 3/4 cup apple juice (pineapple and pear also work)
 * 3/4 cup brown sugar
 * 5/8 tsp garlic powder
 * 1/2 tsp black pepper
@@ -111,7 +111,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ![](/img/img_20201027_182507.jpg)
 
-**_Tips_**
+_**Tips**_
 
 I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
 
@@ -129,6 +129,6 @@ Last of all, and most importantly, support Cupbop! Buy their food often, single-
 
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \"glass\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\"glass\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
