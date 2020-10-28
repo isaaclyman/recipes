@@ -4,7 +4,8 @@ date: 2020-10-13T18:54:39.742Z
 description: >-
   This is a partially complete recipe for making Cupbop (the UglyBop) at home.
   "Copycat," if you will, but might as well be the real thing because I'm not
-  messing around. I've been researching and tinkering for months now. 
+  messing around. I've been researching and tinkering for months now. Decoded
+  and written by Porter Lyman.
 image: /img/img_20201027_180003_3.jpg
 ---
 This is for the UglyBop with heat level 4.
