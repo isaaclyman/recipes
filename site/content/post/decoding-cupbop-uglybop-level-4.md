@@ -13,7 +13,7 @@ This is for the UglyBop with heat level 4.
 ## Layers guide:
 
 1. Rice doused with a modified bulgogi sauce
-2. Light shredded lettuce with very finely shredded purple cabbage (ratio of like 4:1)
+2. Light shredded lettuce with very finely shredded purple cabbage (ratio of like 4:1). Optional: shredded carrots. 
 3. Sweet Potato Noodles (AKA japchae, or glass noodles)
 4. Korean fried chicken (AKA mochiko chicken, although modified). Can also do pork or beef.
 5. Black and white sesame seeds, spicy mayo, and white lime sauce. 
@@ -99,6 +99,7 @@ I haven't tried pork or beef yet, but I'd suggest cooking in whatever way you kn
 
 * Shredded lettuce
 * Thinly shredded cabbage
+* (Optional) shredded carrots. You can knock out the carrots and cabbage by getting a tri-color coleslaw mix. Works great.
 * Sweet potato noodles (one typical bag makes enough for three people). Basically you boil it for 6 minutes, then rinse with cold water.
 * Cooked white rice. Whatever brand or method you prefer. 
 * Black and white sesame seeds to garnish
@@ -111,7 +112,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ![](/img/img_20201027_182507.jpg)
 
-_**Tips**_
+**_Tips_**
 
 I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
 
@@ -127,8 +128,10 @@ Before creating your sauces, if you're super serious about this, I highly recomm
 
 Last of all, and most importantly, support Cupbop! Buy their food often, single-handedly keep them in business. I do, and when we can't make the long drive up to Orem (the best location), we make it at home.
 
+If you need to reheat your mochiko chicken, you can throw them in an air fryer at 450°F for 4-5 minutes each side (8-10 minutes total). You can also put them on a baking sheet and reheat them in the oven or on a pan on the stove. I don't know about the timing for those, but I'd guess 350°F for 10 minutes or medium heat until hot, respectively. 
+
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\"glass\\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\"glass\\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
