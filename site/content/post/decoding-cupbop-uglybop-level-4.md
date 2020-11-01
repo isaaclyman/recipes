@@ -31,7 +31,7 @@ I highly recommend going to Cupbop and ordering extra sauce with your dish, but 
 **White Lime Sauce**
 
 * 10 Tbsp Mayonnaise
-* 4 Tbsp Lime juice
+* 3 Tbsp Lime juice
 * 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it)
 
 I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients, and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
@@ -112,7 +112,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ![](/img/img_20201027_182507.jpg)
 
-**_Tips_**
+_**Tips**_
 
 I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
 
@@ -132,6 +132,6 @@ If you need to reheat your mochiko chicken, you can throw them in an air fryer a
 
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\"glass\\\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\"glass\\\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
