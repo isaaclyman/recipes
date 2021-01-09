@@ -3,9 +3,8 @@ title: Decoding Cupbop - UglyBop level 4
 date: 2020-10-13T18:54:39.742Z
 description: >-
   This is a complete recipe for making Cupbop (the UglyBop) at home. "Copycat,"
-  if you will, but might as well be the real thing because I'm not messing
-  around. I've been researching and tinkering for months now. Decoded and
-  written by Porter Lyman.
+  if you will, but it's as good as the real thing. I've been researching and
+  tinkering for months. Decoded and written by Porter Lyman.
 image: /img/img_20201027_180003_3.jpg
 ---
 This is for the UglyBop with heat level 4.
@@ -32,7 +31,7 @@ I highly recommend going to Cupbop and ordering extra sauce with your dish, but 
 
 * 10 Tbsp Mayonnaise
 * 3 Tbsp Lime juice
-* 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it)
+* 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it as it's a little more accurate to the flavor. Start with less, mix, and taste as you go)
 
 I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients, and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
 
@@ -58,7 +57,7 @@ Here's what I've done:
 * 3/4 cup soy sauce
 * 3/4 cup apple juice (pineapple and pear also work)
 * 3/4 cup brown sugar
-* 5/8 tsp garlic powder
+* 5/8 tsp garlic powder (times by 1.5 if you want to match the peppery heat from Cupbop's bulgogi sauce)
 * 1/2 tsp black pepper
 * (optional) 1 inch of grated ginger, or a tsp. Probably less. I found I didn't have ginger when I made this, and since then I haven't bothered to add it and it's great. Ginger in an authentic quantity is kryptonite, so if you decide to try it, start with a small amount. 
 
@@ -91,6 +90,18 @@ Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/e
 5. Cook a handful of your chicken cubes at a time, flipping partway through (unless completely submerged), until internal temperature of the chicken is above 165°. The mochiko flour exterior doesn't brown much, but you can brown the flayed edges a little. 
 6. After transferring your chicken to a cooling rack (or plate covered with a double layer of paper towels), _salt it!_ The chicken needs salt, and this seems to be the tastiest place to add it. If you want instead, you can experiment by adding it to the marinade or at another stage in the process.
 
+**Air Fryer instructions**
+
+If you'd rather fry this in an air fry (as opposed to oil), the process is similar. 
+
+1. For the batter, times the mochiko flour and corn starch by 1.5. 
+
+2. Don't double coat the meat in mochiko flour from step 4. The meat needs to be wet, and a dry exterior _will_ burn. 
+
+3. Fill your air fryer with a single layer of chicken. Carefull with runoff, as it will clog the holes and prevent hot air from circulating.  
+
+4. Cook at about 400°F for 8-10 minutes, or until internal temp of your biggest piece is 165°F. Flipping halfway through for even browning. If the exterior burns before the inside cooks, lower your temperatue to about 340°F.
+
 **For other meats**
 
 I haven't tried pork or beef yet, but I'd suggest cooking in whatever way you know best, and consider making a bulgogi marinade (with reduced soy sauce and ginger) to use in the process. 
@@ -112,7 +123,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ![](/img/img_20201027_182507.jpg)
 
-_**Tips**_
+**_Tips_**
 
 I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
 
@@ -132,6 +143,6 @@ If you need to reheat your mochiko chicken, you can throw them in an air fryer a
 
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\"glass\\\\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\\"glass\\\\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
