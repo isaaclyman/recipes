@@ -19,7 +19,7 @@ This is for the UglyBop with heat level 4.
 
 Be generous with all sauces. Douse the rice well, but not so much it puddles at the bottom. For the top two sauces, put more than you think you would from the picture. Cupbop's sauces make the dish. 
 
-Note: below a level 4 has less spicy mayo. Above has more. Higher levels have more sriracha and potentially sambal oelek sauce. 
+Note: below a level 4 has less spicy mayo. Above has more. Higher levels have more sriracha and potentially sambal oelek sauce (as practice with Cupbop, reduce soy and ginger, and add mayo and sugar). 
 
 ## Making the sauces
 
