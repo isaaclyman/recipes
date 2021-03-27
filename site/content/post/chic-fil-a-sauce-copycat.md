@@ -24,6 +24,6 @@ The beet juice is almost certainly for color, not flavor; beet juice is commonly
 
 Tomato paste, vinegar, sugar, salt, onion powder, and garlic powder are common flavors in barbecue sauce. Mustard seed and vinegar are (of course) the ingredients in yellow mustard. Some copycat recipes call for dijon mustard, which is a variation I haven't tried yet.
 
-"Natural flavor" is doing some heavy lifting here, as it often does. I suspect it accounts for some of the smoky flavor, which I've included by adding smoked paprika to my recipe (paprika is in the ingredients list as well, so it shouldn't take the flavor off track). "Natural flavor" is also the entirety of the honey flavor, if in fact they take the term "honey mustard" seriously at all, which most food manufacturers do not.
+"Natural flavor" is doing some heavy lifting here, as it often does. I suspect it accounts for some of the smoky flavor, which I've included by adding smoked paprika to my recipe (paprika is in the ingredients list as well, so it shouldn't take the flavor off track). If you're using a naturally smoky barbecue sauce, you may not need the smoked paprika at all. "Natural flavor" is also the entirety of the honey flavor, if in fact they take the term "honey mustard" seriously at all, which most food manufacturers do not.
 
 Enjoy.
