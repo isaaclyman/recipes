@@ -61,12 +61,20 @@ Here's what I've done:
 * 1/2 tsp black pepper
 * (optional) 1 inch of grated ginger, or a tsp. Probably less. I found I didn't have ginger when I made this, and since then I haven't bothered to add it and it's great. Ginger in an authentic quantity is kryptonite, so if you decide to try it, start with a small amount. 
 
+**Alternative Bulgogi Sauce:**
+
+The 'bibigo' brand of Korean BBQ - Marinade & Sauce - Original comes pretty close. It's a little thicker, but the flavor works well. 
+
+![Korean BBQ - Marinade & Sauce - Original](/img/proxy-image.jpg "Korean BBQ - Marinade & Sauce - Original")
+
 **About Teriyaki Sauce, and why it's not it**
 
 * You _can_ use Teriyaki sauce instead of Bulgogi sauce (many of the ingredients of the sauce overlap), but I really don't recommend it. The problem is that the flavor doesn't necessarily mix as well with the other sauces. It's too gingery. You may be disappointed if you go with it. 
 * The real Cupbop bulgogi sauce is somewhere between authentic bulgogi and teriyaki, but with much less ginger and soy sauce (plus sodium). The recipe above is a much better representation of the actual sauce. 
 
 **Mochiko Chicken** 
+
+_Updated version at bottom. Less work if you can find the ingredients, and matches Cupbop's style more closely._
 
 ![Extra crispy Mochiko chicken](/img/img_20201027_185200.jpg "Mochiko chicken with extra mochiko flour as to crisp it up")
 
@@ -90,16 +98,31 @@ Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/e
 5. Cook a handful of your chicken cubes at a time, flipping partway through (unless completely submerged), until internal temperature of the chicken is above 165°. The mochiko flour exterior doesn't brown much, but you can brown the flayed edges a little. 
 6. After transferring your chicken to a cooling rack (or plate covered with a double layer of paper towels), _salt it!_ The chicken needs salt, and this seems to be the tastiest place to add it. If you want instead, you can experiment by adding it to the marinade or at another stage in the process.
 
+**UPDATE**: There is an easier way to do it that seems to match Cupbop's texture of fried chicken even better. There's a link to a [recipe here ](https://aaronandclaire.com/15-minute-korean-fried-chicken-recipe/)you can pull from. 
+
+In short, it requires the following: 
+
+* Frying powder(chicken mix powder, 치킨가루 or 부침가루) – 1.5 cups
+* COLD water – 1.5 cups
+
+You can find frying powder online, or at your local Asian market, or in Korea. There are alternative chicken mix powders as well. 
+
+The ratio is 1 part powder : 1 part cold water. 
+
+1. Mix in a bowl until sauce is somewhat thick
+2. Put chicken in bowl and coat
+3. Add a layer of frying powder to a large container with a lid
+4. Put chicken inside, on the layer of powder
+5. Put on the lid, and shake! Chicken should be evenly coated after
+6. Cooking oil, center of chicken reaching 165°F
+
 **Air Fryer instructions**
 
 If you'd rather fry this in an air fry (as opposed to oil), the process is similar. 
 
 1. For the batter, times the mochiko flour and corn starch by 1.5. 
-
 2. Don't double coat the meat in mochiko flour from step 4. The meat needs to be wet, and a dry exterior _will_ burn. 
-
-3. Fill your air fryer with a single layer of chicken. Carefull with runoff, as it will clog the holes and prevent hot air from circulating.  
-
+3. Fill your air fryer with a single layer of chicken. Careful with runoff, as it will clog the holes and prevent hot air from circulating.  
 4. Cook at about 400°F for 8-10 minutes, or until internal temp of your biggest piece is 165°F. Flipping halfway through for even browning. If the exterior burns before the inside cooks, lower your temperatue to about 340°F.
 
 **For other meats**
@@ -123,7 +146,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ![](/img/img_20201027_182507.jpg)
 
-**_Tips_**
+_**Tips**_
 
 I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
 
@@ -143,6 +166,6 @@ If you need to reheat your mochiko chicken, you can throw them in an air fryer a
 
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\\"glass\\\\\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\\\"glass\\\\\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
