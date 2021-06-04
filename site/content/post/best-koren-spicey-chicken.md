@@ -16,7 +16,7 @@ image: /img/img_20210411_181834.jpg
 * (optional) diced carrots, green onions, and sesame seeds to garnish
 * (optional) cooked rice to put the fried chicken on
 
-Note from original author: "\*Unfortunately, the chicken powder that I used is only available in Korea. However, you can use any chicken powder from other brands. If you want to use a Korean brand, I suggest one from ‘Beksul(백설)’.\*"
+Note from original author: "Unfortunately, the chicken powder that I used is only available in Korea. However, you can use any chicken powder from other brands. If you want to use a Korean brand, I suggest one from ‘Beksul(백설)’."
 
 **Sauce Ingredients**
 
@@ -37,7 +37,6 @@ Note from original author: "\*Unfortunately, the chicken powder that I used is o
 1. Cut the chicken about 600 grams into easy-to-eat sizes and put them in a bowl. 
 2. Add 1 teaspoon of salt, some black pepper and 1/2 tablespoon of minced garlic to season.
 3. Put 1 teaspoon of vinegar to get rid of unpleasant smell of chicken. Let’s massage it gently.
-   
 4. Microwave it for about 30 to 60 seconds. Just be careful not to cook the surface of the chicken.
 
 **Make batter and fry**
@@ -54,7 +53,7 @@ Note from original author: "\*Unfortunately, the chicken powder that I used is o
 1. Pour your sauce into a sauce pan, heat until it starts bubbling
 2. Put your chicken into the pan and slowly mix until the chicken is evenly coated in sauce
 3. (optional) Put the chicken on cooked rice. Add carrots, onions, and sesame seeds 
-    to garnish. 
+   to garnish. 
 4. Donefreakinlishous
 
 [Source](https://aaronandclaire.com/15-minute-korean-fried-chicken-recipe/)
