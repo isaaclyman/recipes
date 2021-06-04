@@ -1,5 +1,5 @@
 ---
-title: Best Koren Spicey Chicken
+title: Best Koren Spicy Chicken
 date: 2021-06-04T20:01:18.036Z
 description: 'It keeps you coming back. '
 image: /img/img_20210411_181834.jpg
