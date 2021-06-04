@@ -4,7 +4,7 @@ date: 2020-10-13T18:54:39.742Z
 description: >-
   This is a complete recipe for making Cupbop (the UglyBop) at home. "Copycat,"
   if you will, but it's as good as the real thing. I've been researching and
-  tinkering for months. Decoded and written by Porter Lyman.
+  tinkering for many months. Decoded and written by Porter Lyman.
 image: /img/img_20201027_180003_3.jpg
 ---
 This is for the UglyBop with heat level 4.
@@ -14,7 +14,7 @@ This is for the UglyBop with heat level 4.
 1. Rice doused with a modified bulgogi sauce
 2. Light shredded lettuce with very finely shredded purple cabbage (ratio of like 4:1). Optional: shredded carrots. 
 3. Sweet Potato Noodles (AKA japchae, or glass noodles)
-4. Korean fried chicken (AKA mochiko chicken, although modified). Can also do pork or beef.
+4. Korean fried chicken (AKA modified mochiko chicken or a more traditional korean fried chicken). Can also do pork or beef.
 5. Black and white sesame seeds, spicy mayo, and white lime sauce. 
 
 Be generous with all sauces. Douse the rice well, but not so much it puddles at the bottom. For the top two sauces, put more than you think you would from the picture. Cupbop's sauces make the dish. 
@@ -25,7 +25,7 @@ Note: below a level 4 has less spicy mayo. Above has more. Higher levels have mo
 
 ![Containers with sauces in them](/img/img_20201027_185247.jpg "Nice little bottles like these are perfect, especially if you don't lose the lids. ")
 
-I highly recommend going to Cupbop and ordering extra sauce with your dish, but in small containers on the side. They're happy to do it. I paid a buck for each added sauce on the side. 
+I highly recommend going to Cupbop and ordering extra sauce with your dish, but in small containers on the side. They're happy to do it. I paid a buck for each added sauce on the side. This will help you get the flavor right when you make it yourself, if you'd like. 
 
 **White Lime Sauce**
 
@@ -33,7 +33,7 @@ I highly recommend going to Cupbop and ordering extra sauce with your dish, but 
 * 3 Tbsp Lime juice
 * 8 Tbsp Confectioners/Powdered sugar (or corn based sugar, like corn syrup, if you have it as it's a little more accurate to the flavor. Start with less, mix, and taste as you go)
 
-I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients, and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
+I've compared this with their official sauce. With minor variation it's spot on. Their white sauce has a gentle yellow hue to it, so I'm certain they use corn syrup or high fructose corn syrup instead. With powdered sugar though you can get pretty close. Just mix the ingredients, and if it's too tart, add more sugar. If it's too sweet, add lime. If it tastes too much like mayo, add the other two ingredients. You get the idea. It should be a generously sweet sauce. 
 
 Feel free to double the recipe, but this should be plenty for a few people.
 
@@ -46,11 +46,11 @@ Feel free to double the recipe, but this should be plenty for a few people.
 
 There's room for play here. If it's too spicy, add mayo. If there's not enough kick, add sriracha. Keep in mind this sauce it meant to be applied heavily, and you'll be putting a lot of it on the final dish. Basically, it should be mild unless you want it spicier than a level 4. 
 
-Also, feel free to double or triple the recipe, but this should be enough for 2-4 people. 
+Also, feel free to double or triple the recipe, but this should be enough for 2-4 people (it makes more than the white sauce recipe does). 
 
 **Bulgogi Sauce**
 
-I recommend making this vs buying it. I bought some from an Asian store, and the flavor profile isn't quite the same. It's way too strong in flavor. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. 
+I recommend making this vs buying Bulgogi sauce. They call it "Bulgogi" when I ask, but it's much closer to certain Korean BBQ sauces you can find. I bought some from an Asian store, and the flavor profile isn't quite the same. It's way too strong in flavor. Cupbop has more of an Americanized version that's sweeter and less overwhelming with the other flavors. 
 
 Here's what I've done: 
 
@@ -60,8 +60,9 @@ Here's what I've done:
 * 5/8 tsp garlic powder (times by 1.5 if you want to match the peppery heat from Cupbop's bulgogi sauce)
 * 1/2 tsp black pepper
 * (optional) 1 inch of grated ginger, or a tsp. Probably less. I found I didn't have ginger when I made this, and since then I haven't bothered to add it and it's great. Ginger in an authentic quantity is kryptonite, so if you decide to try it, start with a small amount. 
+* (optional) I haven't tried this yet, but thickening the sauce using corn starch or an extended slow slimmer on the stove would do wonders by making it a little thicker.  
 
-**Alternative Bulgogi Sauce:**
+**Alternative Bulgogi Sauce (just buying a bottle of Korean BBQ, if you can find it):**
 
 The 'bibigo' brand of Korean BBQ - Marinade & Sauce - Original comes pretty close. It's a little thicker, but the flavor works well. 
 
@@ -74,11 +75,11 @@ The 'bibigo' brand of Korean BBQ - Marinade & Sauce - Original comes pretty clos
 
 **Mochiko Chicken** 
 
-_Updated version at bottom. Less work if you can find the ingredients, and matches Cupbop's style more closely._
+_Hindsight is 20/20. Mochiko Chicken is incredibly tasty, but isn't 100% Cupbop. If you'd rather, instructions for authentic Korean Fried Chicken is further down on this page. Less work if you can find the ingredients, and matches Cupbop's style more closely._
 
 ![Extra crispy Mochiko chicken](/img/img_20201027_185200.jpg "Mochiko chicken with extra mochiko flour as to crisp it up")
 
-Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/egg mix isn't quite it either. Instead, try something like [this](https://www.allrecipes.com/recipe/91499/general-tsaos-chicken-ii/). Or you can try being authentic:
+Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/egg mix isn't quite it either. If you want something sweet and crunchy. 
 
 * 1/4 cup mochiko flour (Japanese sweet rice flour)
   . Do not use real flour. 
@@ -98,7 +99,9 @@ Do not use tempura batter! Flavor didn't fit at all. Your standard flour/panko/e
 5. Cook a handful of your chicken cubes at a time, flipping partway through (unless completely submerged), until internal temperature of the chicken is above 165°. The mochiko flour exterior doesn't brown much, but you can brown the flayed edges a little. 
 6. After transferring your chicken to a cooling rack (or plate covered with a double layer of paper towels), _salt it!_ The chicken needs salt, and this seems to be the tastiest place to add it. If you want instead, you can experiment by adding it to the marinade or at another stage in the process.
 
-**UPDATE**: There is an easier way to do it that seems to match Cupbop's texture of fried chicken even better. There's a link to a [recipe here ](https://aaronandclaire.com/15-minute-korean-fried-chicken-recipe/)you can pull from. 
+**Korean Fried Chicken**
+
+This is an easier way to do it that seems to match Cupbop's texture of fried chicken even better. There's a link to a [recipe here](https://aaronandclaire.com/15-minute-korean-fried-chicken-recipe/) you can pull from (exclude the sauce portion, although if you can figure out the Rock Bop sauce, this is how you could apply it). 
 
 In short, it requires the following: 
 
@@ -118,23 +121,26 @@ The ratio is 1 part powder : 1 part cold water.
 
 **Air Fryer instructions**
 
-If you'd rather fry this in an air fry (as opposed to oil), the process is similar. 
+If you'd rather fry your chicken in an air fry (as opposed to oil), the process is similar. 
 
 1. For the batter, times the mochiko flour and corn starch by 1.5. 
 2. Don't double coat the meat in mochiko flour from step 4. The meat needs to be wet, and a dry exterior _will_ burn. 
 3. Fill your air fryer with a single layer of chicken. Careful with runoff, as it will clog the holes and prevent hot air from circulating.  
 4. Cook at about 400°F for 8-10 minutes, or until internal temp of your biggest piece is 165°F. Flipping halfway through for even browning. If the exterior burns before the inside cooks, lower your temperatue to about 340°F.
 
+Frying chicken in oil just hits differently, but isn't as healthy. This meal already has superfluous amount of sugar, so it isn't trying to healthy by any means. You can embrace that, or try air frying instead. 
+
 **For other meats**
 
-I haven't tried pork or beef yet, but I'd suggest cooking in whatever way you know best, and consider making a bulgogi marinade (with reduced soy sauce and ginger) to use in the process. 
+I haven't tried pork or beef yet, but I'd suggest cooking in whatever way you know best, and consider making a bulgogi or Korean BBQ marinade (with reduced soy sauce and ginger) to use in the process. 
 
 ## **Other Ingredients**
 
 * Shredded lettuce
 * Thinly shredded cabbage
-* (Optional) shredded carrots. You can knock out the carrots and cabbage by getting a tri-color coleslaw mix. Works great.
-* Sweet potato noodles (one typical bag makes enough for three people). Basically you boil it for 6 minutes, then rinse with cold water.
+* (Optional) shredded carrots. 
+* _You can knock out the whole lettuce/cabbage/carrot mix by getting a "tri-color coleslaw" mix. Works great._
+* Sweet potato noodles (one typical small bag makes enough for three people). Basically you boil it for 6 minutes, then rinse with cold water.
 * Cooked white rice. Whatever brand or method you prefer. 
 * Black and white sesame seeds to garnish
 
@@ -148,9 +154,11 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 _**Tips**_
 
-I use metal salad tongs to transfer chicken to and from the oil, and am able to fry without ever touching the chicken.
+I use metal salad tongs instead of a wire spider strainer skimmer to transfer chicken to and from the oil, and am able to fry without ever touching the chicken. If you own a wire spider strainer skimmer, all the better! 
 
-When frying, use a high walled pot. This will prevent splashes.
+When frying, use a high walled pot. This will prevent splashes. 
+
+Don't overfill your pain with oil. Remember the oil level rises quite a bit when you add the chicken to it. 
 
 After frying, let the oil cool over night then strain into your oil container (or new container). If you don't have a way to strain it, funnel it in and let it sit. All the extra flakes and brown stuff will separate and clump at the bottom. Either way, you'll be able to reuse your oil for cooking in the future. 
 
@@ -162,10 +170,10 @@ Before creating your sauces, if you're super serious about this, I highly recomm
 
 Last of all, and most importantly, support Cupbop! Buy their food often, single-handedly keep them in business. I do, and when we can't make the long drive up to Orem (the best location), we make it at home.
 
-If you need to reheat your mochiko chicken, you can throw them in an air fryer at 450°F for 4-5 minutes each side (8-10 minutes total). You can also put them on a baking sheet and reheat them in the oven or on a pan on the stove. I don't know about the timing for those, but I'd guess 350°F for 10 minutes or medium heat until hot, respectively. 
+If you need to reheat your fried chicken, you can throw them in an air fryer at 450°F for 4-5 minutes each side (8-10 minutes total). You can also put them on a baking sheet and reheat them in the oven or on a pan on the stove. I don't know about the timing for those, but I'd guess 350°F for 10 minutes or medium heat until hot, respectively. 
 
 If you're curious about the sweet potato "glass" noodles, here's what they look like:
 
-![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\\\"glass\\\\\\" noodles")
+![Sweet potato "glass" noodles](/img/img_20201027_185213.jpg "Sweet potato \\\\\\\\"glass\\\\\\\\" noodles")
 
 I wouldn't substitute them for anything. _Maybe_ rice noodles, but I wouldn't.
